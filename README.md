@@ -1,4 +1,2 @@
 # star-python
 test
-
-
